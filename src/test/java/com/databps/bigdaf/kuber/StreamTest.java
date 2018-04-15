@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.util.Arrays;
 
 /**
- * update by wwr123
+ * update by wwr123456
  * @author whp 18-3-28
  */
 public class StreamTest {
